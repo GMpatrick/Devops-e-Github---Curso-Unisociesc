@@ -1,0 +1,24 @@
+=========================--==========================--========================--=============
+
+								      Navegar pelo terminal												 							
+
+=========================--==========================--========================--=============
+
+pwd - listar aonde voce esta
+ls - lista tudo que esta dentro da pasta
+cd "Nome da pasta" - navegar entre as pastas
+cd D: - mudar a unidade de disco
+mkdir "Nome da pasta" - criar uma pasta
+mv "nome da pasta"/ "Novo nome da pasta" - mudar o  nome da pasta
+touch "nome arquivo.txt" - criar arquivo
+
+=========================--==========================--========================--=============
+
+								      Comandos Git												 							
+
+=========================--==========================--========================--=============
+
+git init - começar com o controle de versão
+git status - ver todo o estado desta pasta
+
+
