@@ -20,5 +20,11 @@ touch "nome arquivo.txt" - criar arquivo
 
 git init - começar com o controle de versão
 git status - ver todo o estado desta pasta
+git add * (adiciona tudo) - git add "nome do arquivo.extensão" (adiciona o arquivo especifico)
+git commit -m "mensagem" - fazer o commit de arquivos
+git config --global user.name "Nome"
+git config --global user.email "nome@email.com"
+git config --global --list (ver as config de nome e email)
+git log - mostra os historicos de commit
 
 
